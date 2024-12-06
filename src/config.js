@@ -1,0 +1,1 @@
+export const CHANNEL_URL = 'https://t.me/s/truexanewsua';
